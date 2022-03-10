@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24d91b78-91c5-4db4-87d7-65a98a720c05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HoraDoDia/src/HoraDoDia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-github/dio-desafio-repositorio-primeiro-repositorio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ITA - Orientação a objetos/Carros/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.mkd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curso-dio-dominando-ides-java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/calculadora/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/calculadora/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/calculadora/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/calculadora/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/Exercicios Dio Java/calculadora/src/calculadora/calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/ExerciciosDio/PrimeiroProgramaJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/PrimeiroProgramaJava/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eclipse/PrimeiroProgramaJava/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/Primeiro programa intelij.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/out/production/Primeiro programa intelij/br/com/dio/PrimeiroPrograma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/out/production/Primeiro programa intelij/br/com/dio/model/string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/src/Calculadora/calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/src/br/com/dio/model/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intelij/src/br/com/dio/model/string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../operadores/src/controledefluxo/controleDeFluxo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../operadores/src/operadoresrelacionais/operadoresRelacionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../receitas/strogonoff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis/src/exercicioSobreVariaveis/tiposDeVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis/src/exercicioSobreVariaveis/variaveis.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22f3hPDurR8nAdFjGd7Jt98qfqV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="shared-indexes" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d91b78-91c5-4db4-87d7-65a98a720c05" name="Changes" comment="" />
+      <created>1640214933366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640214933366</updated>
+    </task>
+    <servers />
+  </component>
+</project>
