@@ -1,14 +1,14 @@
 package com.pjem.pessoas.entity;
 
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.*;
 
-
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.*;
-
 
 @Entity
 @Data
@@ -20,7 +20,7 @@ public class Person {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private int id_pessoa;
+	private int idpessoa;
 	
 	@Column(nullable = false)
 	private String nome;
@@ -43,14 +43,15 @@ public class Person {
 	private String uf;
 
 	private LocalDate aniversario;
+
+	private LocalDate cadastro;
 	
-	@Column(nullable = false)
-	private LocalDate  cadastro;
-	
-	@Column(nullable = false, unique = true)
+	@Column(nullable = false )
 	private String cpf;
 
+
 	@OneToMany(fetch = FetchType.LAZY,
-			    cascade = {CascadeType.PERSIST, CascadeType.MERGE, CascadeType.REMOVE}) // define em quais situações será utlizado
-	 private List<Phone> Telefone = new ArrayList<>(); // cria uma lista telefone através da classe Telefone
+			    cascade = {CascadeType.ALL}) // define em quais situações será utlizado
+	 private List<Phone> telefones = new ArrayList<>(); // cria uma lista telefone através da classe Telefone
+
 }
